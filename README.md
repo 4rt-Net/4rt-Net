@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4rt-Net
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Pentest+
--
+
 - Current certifications: 
 - :lock: Fundamentals of Data Security
 - :lock: Wireless Networks Security
@@ -16,14 +16,14 @@
 - :space_invader: Cyber Apocalypse 2021 (Hack the Box)
 - :space_invader: Cyber Apocalypse 2022 (Hack the Box)
 - :snowflake:     Cyber Santa 2021      (Hack the Box)
-- 
+
 - [Other]
-- :boom: Nahamcon 2022
-- Team: Missing Brainwaves 404
+- :boom: Nahamcon 2022 :boom:
+- Team Name: Missing Brainwaves 404
 - Points: 734
 - Team Members: 1
 - Placing: 854/4034
-- 
+
 - If you like what you see, or have some advice on the scraps on here, throw me a message! :) 
 
 
