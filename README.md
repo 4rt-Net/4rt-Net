@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4rt-Net
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Pentest+
+- 🌱 I’m currently learning
 
 - Current certifications: 
 - :lock: Fundamentals of Data Security
