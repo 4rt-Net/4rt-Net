@@ -21,7 +21,7 @@
 
 
 
-- If you like what you see, or have some advice on the scraps on here, throw me a message! :) 
+- If you like what you see, or have some advice on the scraps on here, throw me a message! :) <br />
 
 
 
