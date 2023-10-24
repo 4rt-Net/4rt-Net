@@ -7,9 +7,9 @@
 - Current certifications: 
 - :lock: Many :)
 - :lock:CTIA:lock:
-- 
+
 <br>
-- CTF's Done: 
+- CTF's Done: <br>
 - :space_invader: Cyber Apocalypse (Hack the Box)
 - :snowflake:     Cyber Santa      (Hack the Box)
 - :boom: Nahamcon :boom:
