@@ -16,10 +16,10 @@
 - :boom: Misc private CTF's :boom:
 <br>
 
-This is my collection of scripts and tools for use in security engagements, be it offense or defense.
-If you like what you see feel free to share and modify as you see fit.
+This is my collection of scripts and tools for use in security engagements, be it offense or defense. <br>
+If you like what you see feel free to share and modify as you see fit. <br>
 
-~ With that being said, always use your power for good! ~
+~ With that being said, always use your power for good! ~ <br>
 These tools are for ethical hacking only, do not use for nefarious purposes. 
 
 
