@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **[REDACTED]**
 
+- 📄 Experiences: [Projects for large and small organizations ranging from vulnerability assessment, incident response, penetration testing and intelligence gathering.](Projects for large and small organizations ranging from vulnerability assessment, incident response, penetration testing and intelligence gathering.)
+
+- ⚡ Fun fact **I enjoy public & private CTF competitions.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
