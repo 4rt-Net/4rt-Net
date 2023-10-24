@@ -1,27 +1,24 @@
 - 👋 Hi, I’m @4rt-Net
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning
+- 👀 I am a Cyber security engineer
+- 🌱 During work I love to study and build custom tools for engagements.
 
 - Current certifications: 
-- :lock: Fundamentals of Data Security
-- :lock: Wireless Networks Security
-- :lock: TryHackMe - Pre-Security
-- :lock: MT RouterOS Hardening
-- :lock: Network Automation with Python
-- :lock: ZSecurity - Web Hacking, Bug bounty hunting & penetration testing
-- :lock: Zsecurity - Ethical Hacking from Scratch
+- :lock: Many :)
 
 - CTF's Done: 
-- [HTB]
-- :space_invader: Cyber Apocalypse 2021 (Hack the Box)
-- :space_invader: Cyber Apocalypse 2022 (Hack the Box)
-- :snowflake:     Cyber Santa 2021      (Hack the Box)
-- :boom: Nahamcon 2022 :boom:
-- :boom: Nahamcon 2022 EU :boom:
+- :space_invader: Cyber Apocalypse (Hack the Box)
+- :snowflake:     Cyber Santa      (Hack the Box)
+- :boom: Nahamcon :boom:
+-             and
+- :boom: Misc private CTF's :boom:
 
 
 
-- If you like what you see, or have some advice on the scraps on here, throw me a message! :) <br />
+- This is my collection of scripts and tools for use in security engagements, be it offense or defense.
+- If you like what you see feel free to share and modify as you see fit.
+
+- ~ With that being said, always use your power for good! ~
+- These tools are for ethical hacking only, do not use for nefarious purposes. 
 
 
 
