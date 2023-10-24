@@ -1,26 +1,25 @@
 - 👋 Hi, I’m @4rt-Net
 - 👀 I am a Cyber security engineer
 - 🌱 During work I love to study and build custom tools for engagements.
-- 
-<br>
+<br />
 
 - Current certifications: 
 - :lock: Many :)
 - :lock:CTIA:lock:
 
-<br>
-- CTF's Done:  
+<br />
+- CTF's Done:  <br />
 - :space_invader: Cyber Apocalypse (Hack the Box)  
 - :snowflake:     Cyber Santa      (Hack the Box)  
 - :boom: Nahamcon :boom:  
 - :boom: Misc private CTF's :boom:  
-<br>
+<br />
 
-This is my collection of scripts and tools for use in security engagements, be it offense or defense.  
+This is my collection of scripts and tools for use in security engagements, be it offense or defense. <br /> 
 
 If you like what you see feel free to share and modify as you see fit.  
 
-~ With that being said, always use your power for good! ~ <br>  
+~ With that being said, always use your power for good! ~ <br /> 
 These tools are for ethical hacking only, do not use for nefarious purposes. 
 
 
