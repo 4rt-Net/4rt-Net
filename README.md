@@ -4,7 +4,7 @@
 <br>
 - Current certifications: 
 - :lock: Many :)
-- :lock:<Proud to be a CTIA>:lock:
+- :lock:CTIA:lock:
 <br>
 - CTF's Done: 
 - :space_invader: Cyber Apocalypse (Hack the Box)
