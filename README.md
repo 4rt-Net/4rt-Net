@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **[REDACTED]**
 
-- 📄 Experiences: 
-Projects for large and small organizations ranging from vulnerability assessment, incident response, penetration testing and intelligence gathering.
+- 📫 Experience: I have been involved in projects for small to large organizations, projects include VA/VAPT/PT/IR and TI engagements. 
+
 
 - ⚡ Fun fact **I enjoy public & private CTF competitions.**
 
