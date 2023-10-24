@@ -70,7 +70,7 @@ O_O
 ### Like what you see?
 I require massive amounts of caffeine to survive, feel free to buy me a coffee. O_O  
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Art-Net" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/ArtNet" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
