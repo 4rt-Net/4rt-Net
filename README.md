@@ -9,7 +9,6 @@
 - :space_invader: Cyber Apocalypse (Hack the Box)
 - :snowflake:     Cyber Santa      (Hack the Box)
 - :boom: Nahamcon :boom:
--             and
 - :boom: Misc private CTF's :boom:
 
 
