@@ -68,7 +68,7 @@ O_O
 
 
 ### Like what you see?
-I require massive amounts of caffeine to survive, feel free to buy me a coffee. O_O  
+I require massive amounts of caffeine to survive, if you find my tools usefull, please consider donating to my ongoing caffeine requirements. 
 <div align="center">
             <a href="https://www.buymeacoffee.com/artnet" target="_blank" style="display: inline-block;">
                 <img
